@@ -1,0 +1,28 @@
+_repo: The-Little-Gentleman_70978
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Marquand, E. R.
+    gutenberg_agent_id: '56020'
+    url: http://www.gutenberg.org/2009/agents/56020
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-06-14'
+identifiers:
+  gutenberg: '70978'
+language: en
+pgterms:marc905: 20230608073529stooke
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bNational Society''s Depository, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Little Gentleman
+url: http://www.gutenberg.org/ebooks/70978
